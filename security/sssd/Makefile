@@ -17,7 +17,7 @@ LIB_DEPENDS=	libpopt.so:devel/popt \
 		libtalloc.so:devel/talloc \
 		libtevent.so:devel/tevent \
 		libtdb.so:databases/tdb \
-		libldb.so:databases/ldb12 \
+		libldb.so:databases/ldb14 \
 		libcares.so:dns/c-ares \
 		libdbus-1.so:devel/dbus \
 		libdhash.so:devel/ding-libs \
